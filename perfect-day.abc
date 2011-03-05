@@ -1,0 +1,16 @@
+X:1
+M:3/4
+%%staves RH LH
+L:1/4
+K:Dm treble
+V:RH stem=up
+z3 | z3 | z/A/d/e/c/d/- | d2 z | z/d/g/a/c'/a/- | a2 z |
+[FA] [Fd]/c/[Gd]/c/ | [FA]A/c/ [CEG]/E/ | [A,D]3 | z3 |
+z/A,/D/E/C/D/- | D2 z | z/D/G/A/c/A/- | A2 z | [DFA] [Fd]/c/[Gd]/c/ |
+[FA]A/c/[CEG]/E/ | [A,D] [Fd]/c/[Gd]/e/ | [FA] A/c/c/A/ | [Bd]3 | [Ec]3 | [DFA]3 ||
+V:LH stem=down
+K:Dm bass
+D,/A,/D [CE] | D,/A,/D [CE] | D,/A,/D [CE] | D,/A,/D [CE] | D,/A,/D [CE] | D,/A,/D [CE] |
+D,/A,/D [E,E] | [F,F]2 [C,C] | D,,/A,,/D, [C,E,] | D,,/A,,/D, [C,E,] |
+D,,/A,,/D, [C,E,] | D,,/A,,/D, [C,E,] | D,,/A,,/D, [C,E,] | D,,/A,,/D, [C,E,] | D,,/A,,/D, [E,,E,] |
+[F,,F,]2 [C,,C,] | D,,/A,,/D, [E,,E,] | [F,,F,]3 | [B,,B,]3 | [C,C]3 | [D,,D,]3 ||
